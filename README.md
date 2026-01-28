@@ -4,7 +4,7 @@
 My name is Alex and I'm a Frontend developer with a design background from Minsk (Tel Aviv currently). 
 
 ### About me
-📎  I’m working on JavaScript, React; <br>
+📎  My stack is JavaScript, React; <br>
 📎  Before switching to frontend I worked as a graphic designer for five years — <br>
 &nbsp;&nbsp;&nbsp;&nbsp; so **I think like a designer and build like an engineer**; <br>
 📎  How to reach me:  [telegram](https://t.me/al_lmre).
