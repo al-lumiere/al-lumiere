@@ -1,7 +1,7 @@
 ### Hi there!
 <img align="right" img src="/corvax-clever.gif" width="200px">
 
-My name is Alex and I'm a Frontend developer with a design background from Minsk (Tel Aviv currently). 
+My name is Aliaksandra and I'm a Frontend developer with a design background from Minsk (Tel Aviv currently). 
 
 ### About me
 📎  My stack is JavaScript, React; <br>
@@ -35,6 +35,7 @@ All projects below are educational and reflect my learning process. This is just
 |---------|-------------|------|
 | [SkillSwap](https://github.com/al-lumiere/SkillSwap) | Skill-exchange marketplace. <br> In this project, I was responsible not only for development, but also for **task planning and code review within the team.**  | React, Redux Toolkit, JS, TS, HTML, CSS modules, Storybook |
 | [Stells-burgers](https://github.com/al-lumiere/stellar-burgers) | Burger store | React, Redux Toolkit, JS, TS, Jest, Cypress |
+| [Algorithm Practice](https://github.com/al-lumiere/algo-practice.git) | Solutions to Yandex Algorithm Training problems in JavaScript | JavaScript |
 | [Blog castomizer](https://github.com/al-lumiere/blog-customizer) | Online editor for articles | TypeScript, JS, Storybook, Webpack, SCSS |
 | [Weblarek](https://github.com/al-lumiere/weblarek) | Marketplace for developers  | TypeScript, JS, Vite, SCSS |
 | [Zakrivayuschiy teg](https://github.com/al-lumiere/zakrivayuschiy-teg-f) | Website about my education  | HTML, CSS |
