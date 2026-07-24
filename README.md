@@ -6,7 +6,7 @@ My name is Aliaksandra and I'm a Frontend developer with a design background fro
 ### About me
 📎  My stack is JavaScript, React; <br>
 📎  Before switching to frontend I worked as a graphic designer for five years — <br>
-&nbsp;&nbsp;&nbsp;&nbsp; so **I see like a designer and build like an engineer**; <br>
+&nbsp;&nbsp;&nbsp;&nbsp; so **I see like a designer and think like an engineer**; <br>
 📎  How to reach me:  [telegram](https://t.me/al_lmre).
 
 ### Languages and Tools
